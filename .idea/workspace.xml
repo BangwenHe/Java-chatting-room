@@ -1,0 +1,956 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fef99cfb-575b-477e-9bc2-7ee9ebf311e4" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2003800344">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="34" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.13" value="4" />
+          <entry key="project.open.time.139" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="4" />
+          <entry key="project.open.time.16" value="3" />
+          <entry key="project.open.time.17" value="4" />
+          <entry key="project.open.time.20" value="2" />
+          <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.23" value="3" />
+          <entry key="project.open.time.24" value="2" />
+          <entry key="project.open.time.26" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="35" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="form" value="4" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="133" />
+          <entry key="png" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="GUI_DESIGNER_FORM" value="4" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="Image" value="1" />
+          <entry key="JAVA" value="133" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="8" />
+          <entry key="java" value="30938" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="30938" />
+          <entry key="PLAIN_TEXT" value="8" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Client/Login.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+              <folding>
+                <element signature="method#Login#0;class#Login#0" />
+                <element signature="docComment;method#login#0;class#Login#0" />
+                <element signature="method#initUI#0;class#Login#0" />
+                <element signature="class#1510:3390" />
+                <element signature="class#3578:3731" />
+                <element signature="docComment;method#addMenu#0;class#Login#0" />
+                <element signature="method#addMenu#0;class#Login#0" />
+                <element signature="class#4310:4682" />
+                <element signature="method#actionPerformed#0;class#4824:5217" />
+                <element signature="class#5349:5782" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Server/ServerMainFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="507">
+              <caret line="202" column="5" selection-start-line="202" selection-start-column="5" selection-end-line="202" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#ServerMainFrame#0;class#ServerMainFrame#0" />
+                <element signature="method#initUI#0;class#ServerMainFrame#0" />
+                <element signature="class#2922:4654" />
+                <element signature="class#4373:4586" />
+                <element signature="method#addMenuBar#0;class#ServerMainFrame#0" />
+                <element signature="class#5311:5553" />
+                <element signature="class#5592:5842" />
+                <element signature="method#sendMsgToAll#0;class#ServerMainFrame#0" />
+                <element signature="method#removeUser#0;class#ServerMainFrame#0" />
+                <element signature="method#addUser#0;class#ServerMainFrame#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Client/ClientMainFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="docComment;method#ClientMainFrame#0;class#ClientMainFrame#0" />
+                <element signature="method#ClientMainFrame#0;class#ClientMainFrame#0" />
+                <element signature="docComment;method#sendMsg#0;class#ClientMainFrame#0" />
+                <element signature="docComment;method#initialize#0;class#ClientMainFrame#0" />
+                <element signature="class#5185:6149" />
+                <element signature="class#6223:7046" />
+                <element signature="class#7698:8709" />
+                <element signature="docComment;method#addMenuBar#0;class#ClientMainFrame#0" />
+                <element signature="method#addMenuBar#0;class#ClientMainFrame#0" />
+                <element signature="docComment;method#addScrollPane#0;class#ClientMainFrame#0" />
+                <element signature="method#addScrollPane#0;class#ClientMainFrame#0" />
+                <element signature="docComment;method#addCloseBtn#0;class#ClientMainFrame#0" />
+                <element signature="method#addCloseBtn#0;class#ClientMainFrame#0" />
+                <element signature="docComment;method#isExist#0;class#ClientMainFrame#0" />
+                <element signature="method#isExist#0;class#ClientMainFrame#0" />
+                <element signature="method#insertTabMsg#0;class#ClientMainFrame#0" />
+                <element signature="docComment;method#updateTextArea#0;class#ClientMainFrame#0" />
+                <element signature="method#updateTextArea#0;class#ClientMainFrame#0" />
+                <element signature="docComment;method#addToUserList#0;class#ClientMainFrame#0" />
+                <element signature="method#addToUserList#0;class#ClientMainFrame#0" />
+                <element signature="docComment;method#removeFromUserList#0;class#ClientMainFrame#0" />
+                <element signature="method#removeFromUserList#0;class#ClientMainFrame#0" />
+                <element signature="docComment;method#setOnlineNumber#0;class#ClientMainFrame#0" />
+                <element signature="docComment;method#getName#0;class#ClientMainFrame#0" />
+                <element signature="docComment;method#getChatingList#0;class#ClientMainFrame#0" />
+                <element signature="e#13937#13938#0" expanded="true" />
+                <element signature="e#13976#13977#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Client/ClientThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="519">
+              <caret line="138" column="49" selection-start-line="138" selection-start-column="49" selection-end-line="138" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="docComment;method#ClientThread#0;class#ClientThread#0" />
+                <element signature="method#ClientThread#0;class#ClientThread#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Server/Server.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="docComment;method#Server#0;class#Server#0" />
+                <element signature="method#Server#0;class#Server#0" />
+                <element signature="docComment;method#getNextId#0;class#Server#0" />
+                <element signature="method#getNextId#0;class#Server#0" />
+                <element signature="docComment;method#startListen#0;class#Server#0" />
+                <element signature="method#startListen#0;class#Server#0" />
+                <element signature="docComment;method#isUnique#0;class#Server#0" />
+                <element signature="method#isUnique#0;class#Server#0" />
+                <element signature="docComment;method#main#0;class#Server#0" />
+                <element signature="method#main#0;class#Server#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Client/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+              <folding>
+                <element signature="e#82#83#0" expanded="true" />
+                <element signature="e#122#123#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Server/ServerThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="671">
+              <caret line="137" column="90" selection-start-line="137" selection-start-column="90" selection-end-line="137" selection-end-column="90" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="docComment;method#ServerThread#0;class#ServerThread#0" />
+                <element signature="method#ServerThread#0;class#ServerThread#0" />
+                <element signature="method#run#0;class#ServerThread#0" />
+                <element signature="docComment;method#parseMsg#0;class#ServerThread#0" />
+                <element signature="docComment;method#sendMsgExceptSelf#0;class#ServerThread#0" />
+                <element signature="method#sendMsgExceptSelf#0;class#ServerThread#0" />
+                <element signature="docComment;method#sendPrivateMsg#0;class#ServerThread#0" />
+                <element signature="method#sendPrivateMsg#0;class#ServerThread#0" />
+                <element signature="docComment;method#returnOnlineList#0;class#ServerThread#0" />
+                <element signature="method#returnOnlineList#0;class#ServerThread#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>textScrollPane</find>
+      <find>invalid sender</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>msgPanel</replace>
+    </replaceStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Server/ServerThread.java" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/login/JTextFieldHintListener.java" />
+        <option value="$PROJECT_DIR$/src/login/Login.java" />
+        <option value="$PROJECT_DIR$/src/Message.java" />
+        <option value="$PROJECT_DIR$/src/ServerTest.java" />
+        <option value="$PROJECT_DIR$/src/Client.java" />
+        <option value="$PROJECT_DIR$/src/ClientMainFrame.java" />
+        <option value="$PROJECT_DIR$/src/User.java" />
+        <option value="$PROJECT_DIR$/src/Login.java" />
+        <option value="$PROJECT_DIR$/src/ServerThread.java" />
+        <option value="$PROJECT_DIR$/src/Server.java" />
+        <option value="$PROJECT_DIR$/src/message/Message.java" />
+        <option value="$PROJECT_DIR$/src/MyClientForGUITest.form" />
+        <option value="$PROJECT_DIR$/src/MyClient.java" />
+        <option value="$PROJECT_DIR$/src/UI/CJTabbedPane.java" />
+        <option value="$PROJECT_DIR$/src/UI/CJButton.java" />
+        <option value="$PROJECT_DIR$/src/User/User.java" />
+        <option value="$PROJECT_DIR$/src/Server/UserList.java" />
+        <option value="$PROJECT_DIR$/src/Server/ServerFrame.java" />
+        <option value="$PROJECT_DIR$/src/Server/ServerFrame.form" />
+        <option value="$PROJECT_DIR$/src/UI/CJList.java" />
+        <option value="$PROJECT_DIR$/src/UI/UI.java" />
+        <option value="$PROJECT_DIR$/src/Client/IconDialog.java" />
+        <option value="$PROJECT_DIR$/src/Server/MassDialog.java" />
+        <option value="$PROJECT_DIR$/src/Server/ServerThread.java" />
+        <option value="$PROJECT_DIR$/src/Client/ClientThread.java" />
+        <option value="$PROJECT_DIR$/src/Server/Server.java" />
+        <option value="$PROJECT_DIR$/src/Test.java" />
+        <option value="$PROJECT_DIR$/src/Client/Client.java" />
+        <option value="$PROJECT_DIR$/src/Client/ClientMainFrame.java" />
+        <option value="$PROJECT_DIR$/src/Client/Login.java" />
+        <option value="$PROJECT_DIR$/src/Server/ServerMainFrame.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="169" />
+    <option name="y" value="78" />
+    <option name="width" value="974" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Java课程设计" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java课程设计" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java课程设计" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java课程设计" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561966099930" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propGUI" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\asus\eclipse-workspace\CsuTeachingmanagerSpider-master\Java课程设计\src\Server" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Client" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.client">
+    <configuration name="client" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Client.Client" />
+      <module name="Java课程设计" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="server" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Server.Server" />
+      <module name="Java课程设计" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Java课程设计" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.client" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.server" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fef99cfb-575b-477e-9bc2-7ee9ebf311e4" name="Default Changelist" comment="" />
+      <created>1558423236626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558423236626</updated>
+      <workItem from="1558423239707" duration="386000" />
+      <workItem from="1558444308151" duration="20000" />
+      <workItem from="1558450587632" duration="599000" />
+      <workItem from="1558505410063" duration="7959000" />
+      <workItem from="1558521917062" duration="4097000" />
+      <workItem from="1558609434587" duration="2120000" />
+      <workItem from="1558618060307" duration="2500000" />
+      <workItem from="1558659837370" duration="8893000" />
+      <workItem from="1558670694794" duration="1495000" />
+      <workItem from="1558684473401" duration="6214000" />
+      <workItem from="1558694729103" duration="1548000" />
+      <workItem from="1558748304179" duration="6964000" />
+      <workItem from="1558833333391" duration="6620000" />
+      <workItem from="1558917353881" duration="32538000" />
+      <workItem from="1559018460983" duration="3115000" />
+      <workItem from="1559111625279" duration="9188000" />
+      <workItem from="1559134906680" duration="1248000" />
+      <workItem from="1559263699206" duration="8500000" />
+      <workItem from="1559274946066" duration="3355000" />
+      <workItem from="1559289006008" duration="6487000" />
+      <workItem from="1559310803148" duration="12062000" />
+      <workItem from="1559365106615" duration="4966000" />
+      <workItem from="1559460749438" duration="879000" />
+      <workItem from="1559569560441" duration="8367000" />
+      <workItem from="1559605017499" duration="2867000" />
+      <workItem from="1559714763313" duration="8883000" />
+      <workItem from="1559732753751" duration="2191000" />
+      <workItem from="1560172713787" duration="169000" />
+      <workItem from="1560476323510" duration="2242000" />
+      <workItem from="1560659833195" duration="2942000" />
+      <workItem from="1560772421212" duration="1605000" />
+      <workItem from="1560933656230" duration="38000" />
+      <workItem from="1561864632013" duration="675000" />
+      <workItem from="1561872523374" duration="33750000" />
+      <workItem from="1561939922145" duration="18975000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="214457000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11140725" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32872504" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4968017" weight="0.2699896" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49840087" weight="0.211838" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3281412" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50319827" side_tool="true" visible="true" weight="0.2699896" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3281412" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32980332" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32980332" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk10.0.1/lib/src.zip!/java.desktop/java/awt/event/ActionListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="50" column="47" lean-forward="true" selection-start-line="50" selection-start-column="47" selection-end-line="50" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk10.0.1/lib/src.zip!/java.base/java/net/Socket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="210" column="48" lean-forward="true" selection-start-line="210" selection-start-column="48" selection-end-line="210" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/message/JTextFieldHintListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyClientForGUITest.form" />
+    <entry file="file://$PROJECT_DIR$/src/MyClient.java" />
+    <entry file="jar://C:/Program Files/Java/jdk10.0.1/lib/src.zip!/java.desktop/java/awt/GridBagLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="713" selection-start-line="713" selection-end-line="713" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk10.0.1/lib/src.zip!/java.desktop/javax/swing/JPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="172" column="31" lean-forward="true" selection-start-line="172" selection-start-column="31" selection-end-line="172" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk10.0.1/lib/src.zip!/java.desktop/java/awt/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-313">
+          <caret line="1251" column="26" selection-start-line="1251" selection-start-column="26" selection-end-line="1251" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/C++/ChattingRoom/ChattingRoom.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/C++/ChattingRoom/src/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/C++/ChattingRoom/src/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/C++/ChattingRoom/src/mainWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="348" column="9" lean-forward="true" selection-start-line="348" selection-start-column="9" selection-end-line="348" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/message/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk10.0.1/lib/src.zip!/java.desktop/javax/swing/JFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1011">
+          <caret line="385" lean-forward="true" selection-start-line="385" selection-end-line="385" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk10.0.1/lib/src.zip!/java.base/java/net/SocketOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="120" column="13" lean-forward="true" selection-start-line="120" selection-start-column="13" selection-end-line="120" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk10.0.1/lib/src.zip!/java.desktop/javax/swing/JTabbedPane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1670" column="15" selection-start-line="1670" selection-start-column="15" selection-end-line="1670" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk10.0.1/lib/src.zip!/java.desktop/javax/swing/DefaultListModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="368" column="46" lean-forward="true" selection-start-line="368" selection-start-column="46" selection-end-line="368" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk10.0.1/lib/src.zip!/java.desktop/java/awt/event/KeyEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="1799" column="89" selection-start-line="1799" selection-start-column="89" selection-end-line="1799" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk10.0.1/lib/src.zip!/java.desktop/java/awt/event/InputEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="137" column="48" lean-forward="true" selection-start-line="137" selection-start-column="48" selection-end-line="137" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Server/UserList.java" />
+    <entry file="jar://C:/Program Files/Java/jdk10.0.1/lib/src.zip!/java.desktop/javax/swing/text/JTextComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="1368" column="5" lean-forward="true" selection-start-line="1368" selection-start-column="5" selection-end-line="1368" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Server/ServerFrame.java" />
+    <entry file="file://$PROJECT_DIR$/src/Server/ServerFrame.form" />
+    <entry file="file://$PROJECT_DIR$/src/UI/CJTabbedPane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-912">
+          <caret line="15" column="53" lean-forward="true" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UI/CJButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="33" column="42" lean-forward="true" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk10.0.1/lib/src.zip!/java.desktop/java/awt/Container.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="984">
+          <caret line="1028" lean-forward="true" selection-start-line="1028" selection-end-line="1028" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/User/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="23" column="50" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+          <folding>
+            <element signature="e#2105#2106#0" expanded="true" />
+            <element signature="e#2142#2143#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UI/CJList.java" />
+    <entry file="file://$PROJECT_DIR$/src/UI/UI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk10.0.1/lib/src.zip!/java.desktop/javax/swing/AbstractButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="451" column="32" lean-forward="true" selection-start-line="451" selection-start-column="32" selection-end-line="451" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Server/info2.png" />
+    <entry file="jar://C:/Program Files/Java/jdk10.0.1/lib/src.zip!/java.desktop/javax/swing/JMenuItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="145" column="43" lean-forward="true" selection-start-line="145" selection-start-column="43" selection-end-line="145" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk10.0.1/lib/src.zip!/java.desktop/javax/swing/LayoutComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk10.0.1/lib/src.zip!/java.desktop/javax/swing/SortingFocusTraversalPolicy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="477" selection-start-line="477" selection-end-line="477" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk10.0.1/lib/src.zip!/java.desktop/java/awt/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20273">
+          <caret line="1148" column="39" selection-start-line="1148" selection-start-column="39" selection-end-line="1148" selection-end-column="39" />
+          <folding>
+            <element signature="e#40935#40936#0" expanded="true" />
+            <element signature="e#40962#40963#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Client/IconDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="49" column="42" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk10.0.1/lib/src.zip!/java.desktop/javax/swing/JOptionPane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="684" column="68" lean-forward="true" selection-start-line="684" selection-start-column="68" selection-end-line="684" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Server/MassDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="59" lean-forward="true" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#1681:1898" />
+            <element signature="class#1942:2099" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk10.0.1/lib/src.zip!/java.base/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="3687" column="70" lean-forward="true" selection-start-line="3687" selection-start-column="70" selection-end-line="3687" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk10.0.1/lib/src.zip!/java.base/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="1239" column="24" selection-start-line="1239" selection-start-column="24" selection-end-line="1239" selection-end-column="24" />
+          <folding>
+            <element signature="e#48666#48667#0" expanded="true" />
+            <element signature="e#48693#48694#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk10.0.1/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="282" column="15" selection-start-line="282" selection-start-column="15" selection-end-line="282" selection-end-column="15" />
+          <folding>
+            <element signature="e#10586#10587#0" expanded="true" />
+            <element signature="e#10613#10614#0" expanded="true" />
+            <element signature="e#13816#13817#0" expanded="true" />
+            <element signature="e#13871#13872#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Server/ServerThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="671">
+          <caret line="137" column="90" selection-start-line="137" selection-start-column="90" selection-end-line="137" selection-end-column="90" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#ServerThread#0;class#ServerThread#0" />
+            <element signature="method#ServerThread#0;class#ServerThread#0" />
+            <element signature="method#run#0;class#ServerThread#0" />
+            <element signature="docComment;method#parseMsg#0;class#ServerThread#0" />
+            <element signature="docComment;method#sendMsgExceptSelf#0;class#ServerThread#0" />
+            <element signature="method#sendMsgExceptSelf#0;class#ServerThread#0" />
+            <element signature="docComment;method#sendPrivateMsg#0;class#ServerThread#0" />
+            <element signature="method#sendPrivateMsg#0;class#ServerThread#0" />
+            <element signature="docComment;method#returnOnlineList#0;class#ServerThread#0" />
+            <element signature="method#returnOnlineList#0;class#ServerThread#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Client/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+          <folding>
+            <element signature="e#82#83#0" expanded="true" />
+            <element signature="e#122#123#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/ClientTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/ServerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="44" column="9" lean-forward="true" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Server/ServerMainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="202" column="5" selection-start-line="202" selection-start-column="5" selection-end-line="202" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#ServerMainFrame#0;class#ServerMainFrame#0" />
+            <element signature="method#initUI#0;class#ServerMainFrame#0" />
+            <element signature="class#2922:4654" />
+            <element signature="class#4373:4586" />
+            <element signature="method#addMenuBar#0;class#ServerMainFrame#0" />
+            <element signature="class#5311:5553" />
+            <element signature="class#5592:5842" />
+            <element signature="method#sendMsgToAll#0;class#ServerMainFrame#0" />
+            <element signature="method#removeUser#0;class#ServerMainFrame#0" />
+            <element signature="method#addUser#0;class#ServerMainFrame#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Client/ClientMainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#ClientMainFrame#0;class#ClientMainFrame#0" />
+            <element signature="method#ClientMainFrame#0;class#ClientMainFrame#0" />
+            <element signature="docComment;method#sendMsg#0;class#ClientMainFrame#0" />
+            <element signature="docComment;method#initialize#0;class#ClientMainFrame#0" />
+            <element signature="class#5185:6149" />
+            <element signature="class#6223:7046" />
+            <element signature="class#7698:8709" />
+            <element signature="docComment;method#addMenuBar#0;class#ClientMainFrame#0" />
+            <element signature="method#addMenuBar#0;class#ClientMainFrame#0" />
+            <element signature="docComment;method#addScrollPane#0;class#ClientMainFrame#0" />
+            <element signature="method#addScrollPane#0;class#ClientMainFrame#0" />
+            <element signature="docComment;method#addCloseBtn#0;class#ClientMainFrame#0" />
+            <element signature="method#addCloseBtn#0;class#ClientMainFrame#0" />
+            <element signature="docComment;method#isExist#0;class#ClientMainFrame#0" />
+            <element signature="method#isExist#0;class#ClientMainFrame#0" />
+            <element signature="method#insertTabMsg#0;class#ClientMainFrame#0" />
+            <element signature="docComment;method#updateTextArea#0;class#ClientMainFrame#0" />
+            <element signature="method#updateTextArea#0;class#ClientMainFrame#0" />
+            <element signature="docComment;method#addToUserList#0;class#ClientMainFrame#0" />
+            <element signature="method#addToUserList#0;class#ClientMainFrame#0" />
+            <element signature="docComment;method#removeFromUserList#0;class#ClientMainFrame#0" />
+            <element signature="method#removeFromUserList#0;class#ClientMainFrame#0" />
+            <element signature="docComment;method#setOnlineNumber#0;class#ClientMainFrame#0" />
+            <element signature="docComment;method#getName#0;class#ClientMainFrame#0" />
+            <element signature="docComment;method#getChatingList#0;class#ClientMainFrame#0" />
+            <element signature="e#13937#13938#0" expanded="true" />
+            <element signature="e#13976#13977#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Server/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#Server#0;class#Server#0" />
+            <element signature="method#Server#0;class#Server#0" />
+            <element signature="docComment;method#getNextId#0;class#Server#0" />
+            <element signature="method#getNextId#0;class#Server#0" />
+            <element signature="docComment;method#startListen#0;class#Server#0" />
+            <element signature="method#startListen#0;class#Server#0" />
+            <element signature="docComment;method#isUnique#0;class#Server#0" />
+            <element signature="method#isUnique#0;class#Server#0" />
+            <element signature="docComment;method#main#0;class#Server#0" />
+            <element signature="method#main#0;class#Server#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Client/ClientThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="138" column="49" selection-start-line="138" selection-start-column="49" selection-end-line="138" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#ClientThread#0;class#ClientThread#0" />
+            <element signature="method#ClientThread#0;class#ClientThread#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Client/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding>
+            <element signature="method#Login#0;class#Login#0" />
+            <element signature="docComment;method#login#0;class#Login#0" />
+            <element signature="method#initUI#0;class#Login#0" />
+            <element signature="class#1510:3390" />
+            <element signature="class#3578:3731" />
+            <element signature="docComment;method#addMenu#0;class#Login#0" />
+            <element signature="method#addMenu#0;class#Login#0" />
+            <element signature="class#4310:4682" />
+            <element signature="method#actionPerformed#0;class#4824:5217" />
+            <element signature="class#5349:5782" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
