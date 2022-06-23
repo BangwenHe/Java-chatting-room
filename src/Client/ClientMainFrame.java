@@ -106,8 +106,8 @@ public class ClientMainFrame extends JFrame {
         leftpanel.setPreferredSize(new Dimension(130, 0));
 
         // 放置headpanel组件
-        hostTextField = new JTextField("127.0.0.1");   // this.user.getSocket().getInetAddress().toString()
-        portTextField = new JTextField("12345");   // this.user.getSocket().getPort()
+        hostTextField = new JTextField(this.user.getSocket().getInetAddress().toString().substring(1));
+        portTextField = new JTextField(Integer.toString(this.user.getSocket().getPort()));
         nameTextField = new JTextField(this.user.getName());
         hostTextField.setPreferredSize(new Dimension(100, 25));
         hostTextField.setEditable(false);
